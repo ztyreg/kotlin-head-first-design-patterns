@@ -2,12 +2,14 @@
 
 ## Introduction
 
-This is a Kotlin implementation of the book *Head First Design Patterns*
+This is a Kotlin implementation of the book *Head First Design Patterns*. The implementation utilizes Kotlin features such as [Observable Properties](https://kotlinlang.org/docs/delegated-properties.html#observable-properties) and [Object Declarations](https://kotlinlang.org/docs/object-declarations.html#object-declarations-overview).
 
-The implementation utilizes Kotlin features such as:
+Current contents:
 
-* [Observable properties](https://kotlinlang.org/docs/delegated-properties.html#observable-properties)
-* [Object declarations](https://kotlinlang.org/docs/object-declarations.html#object-declarations-overview)
+* [Observer](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch02observer)
+* [Decorator](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch03decorator)
+* [Factory](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch04factory)
+* [Singleton](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch05singleton)
 
 
 ## Build
