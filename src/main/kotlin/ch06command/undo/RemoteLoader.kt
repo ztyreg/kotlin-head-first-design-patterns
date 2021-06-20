@@ -1,4 +1,4 @@
-package ch06command
+package ch06command.undo
 
 fun main() {
     val remote = RemoteControl()

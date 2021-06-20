@@ -1,4 +1,4 @@
-package ch06command
+package ch06command.undo
 
 class RemoteControl {
     private val onCommands = Array<Command>(7) { NoCommand() }

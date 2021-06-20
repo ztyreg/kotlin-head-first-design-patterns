@@ -1,8 +1,11 @@
-package ch06command
+package ch06command.undo
 
-class GarageDoor(private val name: String?) {
-    fun open() = if (name != null) println("$name garage is open") else println("Garage is open")
-    fun close() = if (name != null) println("$name garage is closed") else println("Garage is closed")
+class GarageDoor(name: String?) {
+    private val name = name
+        get() = if (field != null) "$field garage door" else "Garage door"
+
+    fun open() = println("$name is open")
+    fun close() = println("$name is closed")
 }
 
 class GarageDoorOpenCommand(private val garageDoor: GarageDoor) : Command {

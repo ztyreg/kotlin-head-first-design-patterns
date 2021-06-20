@@ -1,8 +1,11 @@
-package ch06command
+package ch06command.undo
 
-class Light(private val name: String?) {
-    fun on() = if (name != null) println("$name light is on") else println("Light is on")
-    fun off() = if (name != null) println("$name light is off") else println("Light is off")
+class Light(name: String?) {
+    private val name = name
+        get() = if (field != null) "$field light" else "Light"
+
+    fun on() = println("$name is on")
+    fun off() = println("$name is off")
 }
 
 class LightOnCommand(private val light: Light) : Command {
