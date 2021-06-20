@@ -10,6 +10,7 @@ Current contents:
 * [Decorator](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch03decorator)
 * [Factory](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch04factory)
 * [Singleton](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch05singleton)
+* [Command](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/ch06command)
 
 
 ## Build
