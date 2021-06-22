@@ -1,10 +1,12 @@
 package ch01strategy
 
-abstract class Duck {
-    var flyBehavior: FlyBehavior = FlyNoWay()
-    var quackBehavior: QuackBehavior = Quack()
+interface Duck {
+    var flyBehavior: FlyBehavior
+    var quackBehavior: QuackBehavior
 
-    abstract fun display()
+    fun display() {
+        println("I'm a duck")
+    }
 
     fun performFly() {
         flyBehavior.fly()
@@ -13,7 +15,6 @@ abstract class Duck {
     fun performQuack() {
         quackBehavior.quack()
     }
-
 
     fun swim() {
         println("All ducks float, even decoys!")
