@@ -12,6 +12,8 @@ Current contents:
 * [Factory](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch04factory)
 * [Singleton](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch05singleton)
 * [Command](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/ch06command)
+* [Adapter](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/ch07adapter)
+* [Template Method](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/ch08templatemethod)
 
 
 ## Build
