@@ -6,6 +6,7 @@ This is a Kotlin implementation of the book *Head First Design Patterns*. The im
 
 Current contents:
 
+* [Strategy](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/ch01strategy)
 * [Observer](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch02observer)
 * [Decorator](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch03decorator)
 * [Factory](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch04factory)
