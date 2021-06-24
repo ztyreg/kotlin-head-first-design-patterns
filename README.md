@@ -16,6 +16,7 @@ Current contents:
 * Chapter 8: [Template Method](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/templatemethod)
 * Chapter 9: [Iterator](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/iterator)
 & [Composite](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/composite)
+* Chapter 10: [State](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/state)
 
 
 ## Build
