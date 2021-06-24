@@ -6,14 +6,16 @@ This is a Kotlin implementation of the book *Head First Design Patterns*. The im
 
 Current contents:
 
-* [Strategy](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/ch01strategy)
-* [Observer](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch02observer)
-* [Decorator](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch03decorator)
-* [Factory](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch04factory)
-* [Singleton](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/ch05singleton)
-* [Command](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/ch06command)
-* [Adapter](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/ch07adapter)
-* [Template Method](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/ch08templatemethod)
+* Chapter 1: [Strategy](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/strategy)
+* Chapter 2: [Observer](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/observer)
+* Chapter 3: [Decorator](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/decorator)
+* Chapter 4: [Factory](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/factory)
+* Chapter 5: [Singleton](https://github.com/ztyreg/kotlin-headfirst-design-patterns/tree/main/src/main/kotlin/singleton)
+* Chapter 6: [Command](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/command)
+* Chapter 7: [Adapter](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/adapter)
+* Chapter 8: [Template Method](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/templatemethod)
+* Chapter 9: [Iterator](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/iterator)
+& [Composite](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/composite)
 
 
 ## Build
