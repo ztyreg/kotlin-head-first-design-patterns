@@ -17,6 +17,7 @@ Current contents:
 * Chapter 9: [Iterator](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/iterator)
 & [Composite](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/composite)
 * Chapter 10: [State](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/state)
+* Chapter 12: [Compound](https://github.com/ztyreg/kotlin-head-first-design-patterns/tree/main/src/main/kotlin/combining)
 
 
 ## Build
